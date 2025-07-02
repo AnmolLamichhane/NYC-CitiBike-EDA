@@ -13,7 +13,7 @@ Exploratory Data Analysis (EDA) on the NYC CitiBike public dataset to uncover in
 
 ## 🔧 Tools & Libraries
 
-- Python (Pandas, NumPy)
+- Python (Pandas)
 - Matplotlib, Seaborn
 - Folium (for mapping)
 - Jupyter Notebook
